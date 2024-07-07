@@ -11,4 +11,6 @@ I have always loved & appreciated movies, so I have decided to dedicate one of m
     -   Removing data with no ratings, year of release, or minute (runtime duration) data (this is usually because they are unreleased movies, and if they're not, we will remove them anyway as it is incomplete data) For example, these two movies have yet to release and currently have no rating (Spider-Man: Beyond the Spider-Verse has no year of release, rating, or runtime duration):
       ![image](https://github.com/andytcodes/Letterboxd-Data-Cleaning-Analysis-Project/assets/66580474/32739422-efd7-48b4-bfec-d66bc935906d)
     - Removing Tagline & Description Columns as these will not be needed for our purposes.
+4. Used the following Excel function to get the decade the films released in: `=CONCATENATE(LEFT(C2, 3), "0s")` ![image](https://github.com/andytcodes/Letterboxd-Data-Cleaning-Analysis-Project/assets/66580474/e9c089b8-0c5c-42fe-913b-cd8d10454706)
+
 
