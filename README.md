@@ -14,9 +14,12 @@ I have always loved & appreciated movies, so I have decided to dedicate one of m
 4. Used the following Excel function to get the decade the films released in: `=CONCATENATE(LEFT(C2, 3), "0s")` ![image](https://github.com/andytcodes/Letterboxd-Data-Cleaning-Analysis-Project/assets/66580474/e9c089b8-0c5c-42fe-913b-cd8d10454706)
 
 ## Pivot Tables
-- Average Movie Length By Decade. ![image](https://github.com/andytcodes/Letterboxd-Data-Cleaning-Analysis-Project/assets/66580474/36283fa8-daf2-4688-ba17-8dedaab9ce64) 
-- Number of Movies Released By Decade ![image](https://github.com/andytcodes/Letterboxd-Data-Cleaning-Analysis-Project/assets/66580474/482e1088-d550-40c6-8585-f1a1bdc99011)
+- Average Movie/Show Length By Decade. ![image](https://github.com/andytcodes/Letterboxd-Data-Cleaning-Analysis-Project/assets/66580474/36283fa8-daf2-4688-ba17-8dedaab9ce64) 
+- Number of Movies/Shows Released By Decade ![image](https://github.com/andytcodes/Letterboxd-Data-Cleaning-Analysis-Project/assets/66580474/482e1088-d550-40c6-8585-f1a1bdc99011)
 - Average Rating By Decade ![image](https://github.com/andytcodes/Letterboxd-Data-Cleaning-Analysis-Project/assets/66580474/412f48c2-d933-4492-be63-c20b4d032994)
+- Top 10 Movies/Shows By Rating ![image](https://github.com/andytcodes/Letterboxd-Data-Cleaning-Analysis-Project/assets/66580474/b680bdfa-0301-406d-aa6c-44d7c96f36b7)
 
+## Dashboard
+![letterboxd-dashboard](https://github.com/andytcodes/Letterboxd-Data-Cleaning-Analysis-Project/assets/66580474/3488ef7c-f9f6-412f-babc-1e17e098c5b1)
 
 
