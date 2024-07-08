@@ -16,7 +16,8 @@ I have always loved & appreciated movies, so I have decided to dedicate one of m
 ## Pivot Tables
 - Average Movie/Show Length By Decade. ![image](https://github.com/andytcodes/Letterboxd-Data-Cleaning-Analysis-Project/assets/66580474/36283fa8-daf2-4688-ba17-8dedaab9ce64) 
 - Number of Movies/Shows Released By Decade ![image](https://github.com/andytcodes/Letterboxd-Data-Cleaning-Analysis-Project/assets/66580474/482e1088-d550-40c6-8585-f1a1bdc99011)
-- Average Rating By Decade ![image](https://github.com/andytcodes/Letterboxd-Data-Cleaning-Analysis-Project/assets/66580474/412f48c2-d933-4492-be63-c20b4d032994)
+- Average Rating By Decade <br>
+  ![image](https://github.com/andytcodes/Letterboxd-Data-Cleaning-Analysis-Project/assets/66580474/412f48c2-d933-4492-be63-c20b4d032994)
 - Top 10 Movies/Shows By Rating ![image](https://github.com/andytcodes/Letterboxd-Data-Cleaning-Analysis-Project/assets/66580474/b680bdfa-0301-406d-aa6c-44d7c96f36b7)
 
 ## Dashboard
