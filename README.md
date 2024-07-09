@@ -1,7 +1,7 @@
 # Letterboxd Data Cleaning & Analysis Project
 Data retrieved [here.](https://www.kaggle.com/datasets/gsimonx37/letterboxd)
 
-I have always loved & appreciated movies, so I have decided to dedicate one of my data analysis projects to movies!
+I have always loved & appreciated movies & television, so I have decided to dedicate one of my data analysis projects to one of my favorite hobbies!
 
 ## Cleaning the data
 1. Import data using UTF-8 Encoding so that name data won't be messy.
